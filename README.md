@@ -17,3 +17,4 @@ There are some others alternatives such as:
     *Ubuntu
     *Its terminal
   2. Buy another computer if you don't mind flanking hundreds of euro.
+
