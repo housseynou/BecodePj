@@ -14,7 +14,11 @@ So, choosing Ubunto as an opérating system could be a very good idea.
 But you can use any other operating system if you feel good in that environment.
 There are some others alternatives such as:
   1. Installing a virtual environment in your machine so that you can use:
-    * Ubuntu
-    * Its terminal
+     * Ubuntu
+     * Its terminal
   2. Buy another computer if you don't mind flanking hundreds of euro.
 
+# Author
+Name: Housseynou
+Email: housseynou7@gmail.com
+link to my markdow: https://github.com/housseynou/BecodePj/blob/master/markdown.md
