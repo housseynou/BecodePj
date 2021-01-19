@@ -19,6 +19,6 @@ There are some others alternatives such as:
   2. Buy another computer if you don't mind flanking hundreds of euro.
 
 # Author
-Name: Housseynou
-Email: housseynou7@gmail.com
-link to my markdow: https://github.com/housseynou/BecodePj/blob/master/markdown.md
+######Name: Housseynou
+######Email: housseynou7@gmail.com
+######[link to the markdow file](https://github.com/housseynou/BecodePj/blob/master/markdown.md)
